@@ -1,0 +1,17 @@
+# Web color scheme:
+9. #0a0a0a
+8. #06193c
+7. #023266
+6. #042e60
+5. #007dfe
+4. #cacfcb
+3. #dadada
+2. #efefef
+1. #fbfff7
+
+# Logo color scheme:
+5. #00bdfd
+4. #00cbfe
+3. #59deff
+2. #d8f2ff
+1. #83e4f7
